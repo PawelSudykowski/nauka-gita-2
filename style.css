@@ -1,0 +1,36 @@
+body  {
+    background: #2d3436;
+}
+.container {
+    max-width: 600px;
+    background: #f0932b;
+    border-radius: 10px;
+    margin: 20px auto 0;
+}
+.title {
+    background: #ff3838;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 20px;
+   
+}
+img {
+    border-radius: 35% 15%;
+    float: right;
+    padding: 10px;
+    width: 40%;
+    margin-top: -86px;
+}
+h1 {
+    padding: 10px;
+    text-align: center;
+    float: left;
+    width: 60%;
+    padding-left: 10px;
+    padding-top: 0px;
+    margin-top: 30px;
+}
+p {
+    text-align: justify;
+    padding: 10px;
+}
